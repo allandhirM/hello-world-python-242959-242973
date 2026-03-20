@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/hello-world-python-242959-242973/hello_world_backend"
+}
